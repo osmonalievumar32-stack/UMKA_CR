@@ -2,7 +2,7 @@ body {
     margin: 0;
     font-family: "Arial", sans-serif;
     background: linear-gradient(135deg, #1e90ff, #ff4d4d);
-    color: rgb(214, 200, 200);
+    color: white;
 }
 
 header {
