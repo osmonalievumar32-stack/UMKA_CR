@@ -1,7 +1,7 @@
 body {
     margin: 0;
     font-family: "Arial", sans-serif;
-    background: freeform-gradient(135deg, #1e90ff, #ff4d4d);
+    background: linear-gradient(135deg, #1e90ff, #ff4d4d);
     color: white;
 }
 
@@ -61,4 +61,5 @@ nav a {
     font-size: 22px;
     font-weight: bold;
 }
+
 
